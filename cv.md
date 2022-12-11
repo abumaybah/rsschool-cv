@@ -30,4 +30,28 @@
 
 ### JavaScript
 
--
+-   DOM || Events
+-   How JS works behind the Scenes
+-   Data Structure, Modern Operators and Strings
+-   OOP
+-   Asynchronous JS
+-   MVC Architecture
+
+### Vue.js
+
+-   Pinia
+-   VeeValidate
+-   Routing, Router leave guards, Route transitions
+-   Vuex
+-   Composition API
+-   Vitest
+
+## Code examples
+
+    const switchPlayer = function () {
+        document.getElementById(`current--${activePlayer}`).textContent = 0;
+        currentScore = 0;
+        activePlayer = activePlayer === 0 ? 1 : 0;
+        player0El.classList.toggle('player--active');
+        player1El.classList.toggle('player--active');
+    };
