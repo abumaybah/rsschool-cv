@@ -24,15 +24,15 @@
 
 ### CSS
 
--   Grid || Flexbox
+-   Grid & Flexbox
 -   Crosbrowser support
--   SASS || SCSS
+-   SASS & SCSS
 
 ### JavaScript
 
--   DOM || Events
+-   DOM & Events
 -   How JS works behind the Scenes
--   Data Structure, Modern Operators and Strings
+-   Data Structure, Modern Operators & Strings
 -   OOP
 -   Asynchronous JS
 -   MVC Architecture
@@ -46,6 +46,8 @@
 -   Composition API
 -   Vitest
 
+---
+
 ## Code examples
 
     const switchPlayer = function () {
@@ -55,3 +57,31 @@
         player0El.classList.toggle('player--active');
         player1El.classList.toggle('player--active');
     };
+
+---
+
+## Work experience and education
+
+### Complete Vue Mastery 2022 ( Pinia, Compostion API, Vitest)
+
+-   Understanding Reactivities with Proxies
+-   Advanced Vue Components
+-   Transitions & Animations
+-   Pinia
+-   VeeValidate ( Form Validation )
+-   Routing, Router leave guards, Route transitions
+-   Vuex
+-   Custom directives
+-   Progressive Web App
+-   Performance and Optimization
+-   Compostin API
+-   Components Design Patterns
+-   Testing Vue Apps (Vitest)
+
+Code examples: https://github.com/abumaybah/music
+
+### Tashkent University Of Information Technology in Fergana
+
+#### Certificate
+
+![Picture of Certificate](udemyCertificateVueZTM.jpg)
