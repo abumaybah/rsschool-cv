@@ -61,3 +61,33 @@
 ```
 
 ---
+
+## Work experience and education
+
+### Complete Vue Mastery 2022 ( Pinia, Compostion API, Vitest)
+
+-   Understanding Reactivities with Proxies
+-   Advanced Vue Components
+-   Transitions & Animations
+-   Pinia
+-   VeeValidate ( Form Validation )
+-   Routing, Router leave guards, Route transitions
+-   Vuex
+-   Custom directives
+-   Progressive Web App
+-   Performance and Optimization
+-   Compostin API
+-   Components Design Patterns
+-   Testing Vue Apps (Vitest)
+
+Code examples: https://github.com/abumaybah/music
+
+### Tashkent University Of Information Technology in Fergana (currently second course)
+
+#### Certificate
+
+![Picture of Certificate](udemyCertificateVueZTM.jpg)
+
+## English
+
+> I have been watching all content on the Internet in English language, because I think there is much more useful information in English language than in other languages, so that is why I am trying to do everything in English language. I thing a have decent English level at least it is enough to communicate with other native or not native speakers out there.
