@@ -2,8 +2,8 @@
 
 ## Contact info
 
--   Mail: mail@mail.com
--   Phone: +998999999999
+-   Mail: abdulazizmakhmudov25@mail.com
+-   Phone: +998905813340
 -   Github: abumaybah
 -   Telegram: @abumaybah
 
