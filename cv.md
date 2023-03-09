@@ -50,6 +50,7 @@
 
 ## Code examples
 
+```
     const switchPlayer = function () {
         document.getElementById(`current--${activePlayer}`).textContent = 0;
         currentScore = 0;
@@ -57,5 +58,6 @@
         player0El.classList.toggle('player--active');
         player1El.classList.toggle('player--active');
     };
+```
 
 ---
